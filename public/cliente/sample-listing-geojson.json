@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            29.09874,
+            -110.97778
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "label": "$121",
+        "name": "Coderthemes Design LLP",
+        "link": "/",
+        "description": "",
+        "address": "251 Ocho, SON"
+      }
+    }
+  ]
+}
